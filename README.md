@@ -1,4 +1,4 @@
-##Analog - Digital Clocks
+#Analog - Digital Clocks
 
 This is a combined web app of Analog Clock and Digital Clock.
 Created by using HTML, CSS and JavaScript.
